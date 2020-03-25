@@ -1,2 +1,2 @@
 # Molecular
-Molecular data neded for spectroscopy
+Molecular data neded for spectroscopy easily accessible from IDL.
